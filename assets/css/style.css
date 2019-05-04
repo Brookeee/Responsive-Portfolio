@@ -240,7 +240,6 @@ body {
     nav {
       text-align:center;
       width: 100%;
-      /* change color to #ccccc*/
     }
     .main-section {
       height: auto;
@@ -248,3 +247,6 @@ body {
     #logo {
       width:99%;
     }
+    /*.work{ adjusting work images to be aligned on width size
+      margin-left: 50px;
+    }*/ 
